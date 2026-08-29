@@ -1,2 +1,2 @@
-# WinUtil_-
+# WinUtil_-TW
 WinUtil_繁中 檔案在同一個資料夾！可直接執行
